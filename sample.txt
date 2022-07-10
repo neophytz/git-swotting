@@ -1,1 +1,3 @@
-hello sir,
+hello guys,
+
+This is my first time of using git and github,
