@@ -1,9 +1,0 @@
-hello guys,
-
-<<<<<<< Updated upstream
-This is my first time of using git and github,
-
-Trying to raise a Pull Request
-=======
-first experience on working on git and github,
->>>>>>> Stashed changes
